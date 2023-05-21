@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'token'
 
 
 def get_gpt_ans(request: str):
